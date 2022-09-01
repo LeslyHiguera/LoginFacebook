@@ -40,7 +40,7 @@
 		2425742128BEC7870048C1BD = {
 			isa = PBXGroup;
 			children = (
-				2425742C28BEC7870048C1BD /* ControlsAndTextsViews */,
+				2425742C28BEC7870048C1BD /* LoginFacebook */,
 				2425742B28BEC7870048C1BD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2425742C28BEC7870048C1BD /* ControlsAndTextsViews */ = {
+		2425742C28BEC7870048C1BD /* LoginFacebook */ = {
 			isa = PBXGroup;
 			children = (
 				2425742D28BEC7870048C1BD /* AppDelegate.swift */,
@@ -64,7 +64,7 @@
 				2425743828BEC78D0048C1BD /* LaunchScreen.storyboard */,
 				2425743B28BEC78D0048C1BD /* Info.plist */,
 			);
-			path = ControlsAndTextsViews;
+			path = LoginFacebook;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2425742528BEC7870048C1BD /* Build configuration list for PBXProject "ControlsAndTextsViews" */;
+			buildConfigurationList = 2425742528BEC7870048C1BD /* Build configuration list for PBXProject "Facebook" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -289,7 +289,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M827S9DWQ4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ControlsAndTextsViews/Info.plist;
+				INFOPLIST_FILE = LoginFacebook/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -317,7 +317,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = M827S9DWQ4;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ControlsAndTextsViews/Info.plist;
+				INFOPLIST_FILE = LoginFacebook/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -339,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2425742528BEC7870048C1BD /* Build configuration list for PBXProject "ControlsAndTextsViews" */ = {
+		2425742528BEC7870048C1BD /* Build configuration list for PBXProject "Facebook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2425743C28BEC78D0048C1BD /* Debug */,

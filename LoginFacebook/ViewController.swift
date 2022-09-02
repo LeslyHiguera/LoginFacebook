@@ -12,18 +12,10 @@ class ViewController: UIViewController {
     // MARK: - IBOutlet
 
     @IBOutlet weak var myButton: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        //Buttons
-        
-        myButton.setTitle("Mi botón", for: .normal)
-        myButton.backgroundColor = .green
     }
-    
-    // MARK: - IBAction
-
-
 
 }
 
